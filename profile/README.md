@@ -1,7 +1,7 @@
 ### Rainychville Government
 
 This GitHub organization contains the repositories of the Rainychville
-Government, the governing body Rainychville, the Discord server Rainych
+Government, the governing body of Rainychville, the Discord server of Rainych
 Ran, an Indonesian singer.
 
 
